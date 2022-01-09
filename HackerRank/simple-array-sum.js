@@ -32,7 +32,7 @@ function readLine() {
 function simpleArraySum(ar) {
     // Write your code here
     
-    let sum;
+    let sum=0;
     let arr = ar;
     for (let i=0; i < arr.length; i++){
         sum+=arr[i];
